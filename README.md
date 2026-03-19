@@ -20,7 +20,7 @@ It runs on macOS.
 Just add tap and install homebrew package.
 
 ```bash
-brew tap rioriost/phorganize
+brew tap rioriost/tap
 brew install phorganize
 ```
 
@@ -144,6 +144,12 @@ If multiple files will have the same new name, phorganize will add a sequence nu
 Movie files do not have camera model information, so they are organized in the '(null)' directory.
 
 ## Release Notes
+
+### 0.1.5 Release
+* Fixed the project URL
+
+### 0.1.4 Release
+* Fixed the project URL
 
 ### 0.1.3 Release
 * Security update
