@@ -20,8 +20,7 @@ It runs on macOS.
 Just add tap and install homebrew package.
 
 ```bash
-brew tap rioriost/tap
-brew install phorganize
+brew install rioriost/tap/phorganize
 ```
 
 ## Usage
@@ -142,26 +141,6 @@ tree ~/Desktop/photos
 
 If multiple files will have the same new name, phorganize will add a sequence number to the file name.
 Movie files do not have camera model information, so they are organized in the '(null)' directory.
-
-## Release Notes
-
-### 0.1.5 Release
-* Fixed the project URL
-
-### 0.1.4 Release
-* Fixed the project URL
-
-### 0.1.3 Release
-* Security update
-
-### 0.1.2 Release
-* Updated for the dependencies.
-
-### 0.1.1 Release
-* Fixed a title of README.md
-
-### 0.1.0 Release
-* First release.
 
 ## License
 MIT License
